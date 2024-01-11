@@ -3,3 +3,5 @@ pandas
 numpy
 scikit-learn
 google-cloud-bigquery
+tfx[kfp]<2
+tensorflow-model-analysis
